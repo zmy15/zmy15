@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2E9EF7&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+zmy15+%F0%9F%91%8B;AI+Tooling+%C3%97+Game+Modding;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Lua;Building+things+that+shouldn't+be+possible" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=2E9EF7&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+zmy15+%F0%9F%91%8B;AI+Tooling+%C3%97+Game+Modding;C%23+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+Lua;Building+things+that+shouldn't+be+possible" alt="Typing SVG" />
 
 <p>
   <a href="https://github.com/zmy15?tab=followers"><img src="https://img.shields.io/github/followers/zmy15?label=Followers&style=for-the-badge&color=2E9EF7&logo=github" alt="Followers" /></a>
