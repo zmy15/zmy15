@@ -4,8 +4,12 @@
 
 <p>
   <a href="https://github.com/zmy15?tab=followers"><img src="https://img.shields.io/github/followers/zmy15?label=Followers&style=for-the-badge&color=2E9EF7&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/zmy15?tab=repositories"><img src="https://img.shields.io/badge/Repos-26-2E9EF7?style=for-the-badge&logo=github" alt="Repos" /></a>
+  <a href="https://github.com/zmy15?tab=repositories"><img src="https://img.shields.io/badge/Repos-27-2E9EF7?style=for-the-badge&logo=github" alt="Repos" /></a>
   <img src="https://komarev.com/ghpvc/?username=zmy15&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="Views" />
+</p>
+
+<p>
+  <a href="https://zmy15.pages.dev"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Visit_my_homepage-zmy15.pages.dev-7AA2F7?style=for-the-badge&labelColor=1a1b26" alt="Homepage" /></a>
 </p>
 
 **Student @ Nanjing University of Posts and Telecommunications** · Nanjing, China
@@ -139,6 +143,7 @@
 <div align="center">
 
 <a href="https://github.com/zmy15"><img src="https://img.shields.io/badge/GitHub-zmy15-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://zmy15.pages.dev"><img src="https://img.shields.io/badge/Homepage-zmy15.pages.dev-7AA2F7?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
 <a href="https://github.com/zmy15/DeepSeek-for-VisualStudio/discussions"><img src="https://img.shields.io/badge/Discussions-Join-2E9EF7?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
